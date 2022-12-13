@@ -1,4 +1,4 @@
-# :red_square: KB v1.0 - _The Multi-Tool Web Vulnerability Scanner_
+# KB v1.0 - _The Multi-Tool Web Vulnerability Scanner_
 `KB has been ported to Python3`
 
 ## Vulnerability Checks
